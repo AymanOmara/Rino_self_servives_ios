@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Rino
+
+  Created by Ayman Omara on 17/07/2022.
+  
+*/
+"username" = "اسم المستخدم";
+"password" = "كلمة المرور";
+"login" = "تسجيل الدخول";
+"cancel" = "الغاء";
+"passowrd" = "كلمة المرور";
+"oldpassowrd" = "كلمة المرور الحالية";
+"newpassword" = "كلمة المرور الجديدة";
+"changepassword" = "تغيير كلمة المرور";
+"paymentordernumber" = "رقم الطلب";
+"me" = "المحال الي";
+"other" = "الاخري";
+"payment_process" = "المدفوعات المالية";
+"hr_clearance" = "اخلاء طرف";
+"managment_alerts" = "تنبيهات الإدارة العليا";
